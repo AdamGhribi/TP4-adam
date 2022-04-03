@@ -1,0 +1,11 @@
+0	Zoe	potion	50	1
+0	Brock	food	20	2
+0	May	medication	100	3
+0	Team rocket	hot air ballon	0	4
+0	Leon	potion	50	5
+1	Charmander	1	1	1	1	Blaze	1	1
+1	Bulbasaur	2	2	2	2	Blaze	2	2
+1	Squirtle	3	3	3	3	Blaze	3	3
+1	Vulpix	4	4	4	4	Blaze	4	4	4
+1	Psyduck	5	5	5	5	Blaze	5	5	5
+1	Meowth	6	6	6	6	Blaze	6	6	6
